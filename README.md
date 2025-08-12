@@ -8,7 +8,7 @@ A curated collection of simple HTML notes, small demo pages, and mini-projects y
 ## 🚀 How to Use
 1. **Clone the repo:**
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/tlbogia08/HtmlNotes-Projects.git>
    ```
 2. Open the folder in your file explorer or VS Code.
 3. Double-click any `index.html` (or open it in your browser).
